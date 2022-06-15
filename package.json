@@ -1,0 +1,24 @@
+{
+  "name": "week-12-practice",
+  "version": "1.0.0",
+  "description": "You can use this repository as a template for your repository or copy the files into your repository manually",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrasghyczy/week-12-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrasghyczy/week-12-practice/issues"
+  },
+  "homepage": "https://github.com/andrasghyczy/week-12-practice#readme",
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
